@@ -1,5 +1,5 @@
 <template>
-  <div>hello world <br /></div>
+  <div>index vuesax</div>
 </template>
 
 <script>
